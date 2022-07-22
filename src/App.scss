@@ -92,10 +92,13 @@
   text-decoration: none !important;
   font-family: "Nunito Sans", sans-serif !important;
   width: auto;
+  font-weight: 100 !important;
   color: #fff;
-  background: #2c77f6;
+  background: #2c77f6 !important;
+  box-shadow: none !important;
+  text-transform: capitalize !important;
   border: none;
-  font-size: 16px;
+  font-size: 16px !important;
   ion-icon {
     font-size: 21px;
     margin: 0em 5px;
